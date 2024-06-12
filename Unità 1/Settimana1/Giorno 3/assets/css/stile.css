@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.logo{
+    margin: auto;
+}
+
+.head{
+    background-color:#FDFBF1;
+        margin: auto;
+        
+}
+
